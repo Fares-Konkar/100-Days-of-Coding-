@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+## First Day:
 
-This is a temporary script file.
-"""
-print('hello')
+print('Hello World!')
+
+if 5>2 :
+    print('Five is grater than two!')s
