@@ -11,4 +11,4 @@ if 5>2 :
 """
 this is also a comment 
 """
-print('my name is fares')# this is antother way of comminting 
+print('my name is fares')# this is another way of comminting 
