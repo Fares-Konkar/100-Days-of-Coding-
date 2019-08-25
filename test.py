@@ -41,9 +41,13 @@ print(complex(x))
 import random
 print(random.randrange(1,10))
 
+# Day 5:
 
+x= apple 
+y= orange 
+z= limon
 
-
-
-
+basket = x + y + z
+print(basket)
+"""we can't print basket because apple is'nt string"""
 
